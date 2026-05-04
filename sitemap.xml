@@ -2,22 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://woulf.dev/</loc>
-         <lastmod>2026-04-24</lastmod>
+         <lastmod>2026-05-04</lastmod>
     </url>
     <url>
          <loc>https://woulf.dev/lost-and-found/</loc>
-         <lastmod>2026-04-24</lastmod>
+         <lastmod>2026-05-04</lastmod>
     </url>
     <url>
          <loc>https://woulf.dev/projects/</loc>
-         <lastmod>2026-04-24</lastmod>
-    </url>
-    <url>
-         <loc>https://woulf.dev/projects/2026/hello-world/</loc>
-         <lastmod>2026-04-24</lastmod>
-    </url>
-    <url>
-         <loc>https://woulf.dev/projects/category/software/</loc>
-         <lastmod>2026-04-24</lastmod>
+         <lastmod>2026-05-04</lastmod>
     </url>
 </urlset>
